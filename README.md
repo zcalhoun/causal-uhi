@@ -1,7 +1,7 @@
 # Causal UHI
 
-This repository contains the code used to perform experiments for the manuscript *Estimating the effects of vegetation and increased
-albedo on the urban heat island effect with spatial causal inference* [todo -- add link to this once published].
+This repository contains the code used to perform experiments for the manuscript [Estimating the effects of vegetation and increased
+albedo on the urban heat island effect with spatial causal inference](https://www.nature.com/articles/s41598-023-50981-w).
 
 In this repository, there are:
 1. Three scripts that demonstrate the [cross-validation strategy](calc_optimal_weights.py), [bootstrapping method](bootstrap_coefficients.py), and [joint training algorithm](joint_train.py) used to obtain final results.
