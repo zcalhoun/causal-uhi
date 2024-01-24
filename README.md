@@ -1,4 +1,5 @@
 # Causal UHI
+[![DOI](https://zenodo.org/badge/679762795.svg)](https://zenodo.org/doi/10.5281/zenodo.10561409)
 
 This repository contains the code used to perform experiments for the manuscript [Estimating the effects of vegetation and increased
 albedo on the urban heat island effect with spatial causal inference](https://www.nature.com/articles/s41598-023-50981-w).
