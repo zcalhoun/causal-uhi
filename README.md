@@ -29,5 +29,11 @@ Please refer to the following scripts to replicate the results in the publicatio
 
 Once you have a bash script created, you can simply run that bash script from the terminal and check the results directory to see the results.
 
+# References
+The data found in the [data/durham](data/durham) folder relies on the following sources:
+1. Dewitz, J., 2023, National Land Cover Database (NLCD) 2021 Products: U.S. Geological Survey data release, https://doi.org/10.5066/P9JZ7AO3.
+2. North Carolina State Climate Office, 2021. Urban Heat Island Temperature Mapping Campaign, https://climate.ncsu.edu/research/uhi/.
+3. Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D., & Moore, R. (2017). Google Earth Engine: Planetary-scale geospatial analysis for everyone.
+
 # Questions?
 Please create an issue if you have a question about the code, and I will try my best to get back to you.
